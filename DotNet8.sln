@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.34814.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.ConsoleApp", "DotNet8.ConsoleApp\DotNet8.ConsoleApp.csproj", "{704C9EB0-A401-4441-AD33-E4B86540C603}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.ClassLibrary", "DotNet8.ClassLibrary\DotNet8.ClassLibrary.csproj", "{2076BCEF-FF44-43DB-969A-8AFA328F6894}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.Shared", "DotNet8.ClassLibrary\DotNet8.Shared.csproj", "{2076BCEF-FF44-43DB-969A-8AFA328F6894}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
